@@ -1,5 +1,7 @@
 # kaggle_pandas_resources
-Kaggle minicourses usually have resource page that teaches the topic before exercises but that is not the case for pandas. I will gather links for each of the six chapters of the course at this location. 
+Kaggle minicourses usually have resource page that teaches the topic before exercises but that is not the case for pandas. This page will have all the links for each of the six chapters of the course for convenience.  
+
+My hope is @residentmario sees this and fixes the page.
 
 1. Creating, reading, and writing reference 
 https://www.kaggle.com/residentmario/creating-reading-and-writing/notebook
